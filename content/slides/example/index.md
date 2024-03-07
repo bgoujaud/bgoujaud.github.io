@@ -60,11 +60,13 @@ if porridge == "blueberry":
 
 In-line math: $x + y = z$
 
-Block math:
+[//]: # (Block math:)
 
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
+[//]: # ($_$)
+
+[//]: # (f\left&#40; x \right&#41; = \;\frac{{2\left&#40; {x + 4} \right&#41;\left&#40; {x - 4} \right&#41;}}{{\left&#40; {x + 4} \right&#41;\left&#40; {x + 1} \right&#41;}})
+
+[//]: # ($$_)
 
 ---
 
