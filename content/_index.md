@@ -42,9 +42,11 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+
   - block: collection
+    id: research
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -56,8 +58,9 @@ sections:
     design:
       columns: '2'
       view: citation
+  
   - block: collection
-    id: talks
+    id: teaching
     content:
       title: Recent & Upcoming Talks
       filters:
@@ -66,6 +69,7 @@ sections:
     design:
       columns: '2'
       view: compact
+
   - block: collection
     id: posts
     content:
@@ -93,7 +97,9 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
