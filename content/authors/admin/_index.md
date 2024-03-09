@@ -44,7 +44,7 @@ education:
     - course: Master of Science in Machine Learning and Computer Vision (MVA)
       institution: Ecole Normale Supérieure Paris-Saclay
       year: 2017
-    - course: Agrégation de mathématiques, ranked $18^{th}$
+    - course: Agrégation de mathématiques, ranked 18<sup>th</sup>$
       institution: Ecole Normale Supérieure Paris-Saclay
       year: 2016
 
