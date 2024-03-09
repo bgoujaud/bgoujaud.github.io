@@ -31,7 +31,9 @@ bio: My research interests include Optimization and Machine Learning.
 # Interests to show in About widget
 interests:
   - Optimization
-  - Machine Learning
+  - Distributed Learning
+  - Robustness
+  - Diffusion models
 
 # Education to show in About widget
 education:
@@ -42,7 +44,7 @@ education:
     - course: Master of Science in Machine Learning and Computer Vision (MVA)
       institution: Ecole Normale Supérieure Paris-Saclay
       year: 2017
-    - course: Master of Science in Mathematics, agregation (18^{th})
+    - course: Agrégation de mathématiques, ranked $18^{th}$
       institution: Ecole Normale Supérieure Paris-Saclay
       year: 2016
 
