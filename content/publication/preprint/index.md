@@ -1,12 +1,14 @@
 ---
-title: "Provable non-accelerations of the heavy-ball method."
+title: "Provable non-accelerations of the heavy-ball method"
 authors:
-- admin
-date: "2023"
+- Baptiste Goujaud
+- Adrien Taylor
+- Aymeric Dieuleveut
+date: "2023-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023"
+publishDate: "2023-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -62,7 +64,7 @@ featured: false
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 # ({{% callout note %}})
