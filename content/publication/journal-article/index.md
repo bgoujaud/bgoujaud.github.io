@@ -33,28 +33,32 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+
+# (image:)
+
+# (  caption: 'Image credit: [**Unsplash**]&#40;https://unsplash.com/photos/jdD8gXaTZsc&#41;')
+
+# (  focal_point: "")
+
+# (  preview_only: false)
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+# projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -64,12 +68,18 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+# ({{% callout note %}})
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+# (Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.)
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+# ({{% /callout %}})
+
+# ()
+# ({{% callout note %}})
+
+# (Create your slides in Markdown - click the *Slides* button to check out the example.)
+
+# ({{% /callout %}})
+
+# ()
+# (Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images]&#40;https://docs.hugoblox.com/content/writing-markdown-latex/&#41;.)
