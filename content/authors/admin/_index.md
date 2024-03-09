@@ -161,7 +161,7 @@ highlight_name: true
 ---
 
 I am a final year PhD student at CMAP, Ecole Polytechnique,
-supervised by Aymeric Dieuleveut and Adrien Taylor.
+supervised by <a href="http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/">Aymeric Dieuleveut</a> and <a href="https://adrientaylor.github.io">Adrien Taylor</a>.
 
 My research interests include Machine Learning, Optimization and Statistics.
 In particular, I am interested in distributed learning, generalization, privacy, robustness,
