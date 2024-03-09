@@ -2,9 +2,9 @@
 # Display name
 title: Baptiste Goujaud
 
-[//]: # (# Name pronunciation &#40;optional&#41;)
+# # Name pronunciation (optional)
 
-[//]: # (name_pronunciation: Chien Shiung Wu)
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Baptiste
@@ -46,83 +46,83 @@ education:
       institution: Ecole Normale Supérieure Paris-Saclay
       year: 2016
 
-[//]: # (# Skills)
+#: # (# Skills)
 
-[//]: # (# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons)
+#: # (# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons)
 
-[//]: # (skills:)
+#: # (skills:)
 
-[//]: # (  - name: Technical)
+#: # (  - name: Technical)
 
-[//]: # (    items:)
+#: # (    items:)
 
-[//]: # (      - name: Python)
+#: # (      - name: Python)
 
-[//]: # (        description: '')
+#: # (        description: '')
 
-[//]: # (        percent: 80)
+#: # (        percent: 80)
 
-[//]: # (        icon: python)
+#: # (        icon: python)
 
-[//]: # (        icon_pack: fab)
+#: # (        icon_pack: fab)
 
-[//]: # (      - name: Data Science)
+#: # (      - name: Data Science)
 
-[//]: # (        description: '')
+#: # (        description: '')
 
-[//]: # (        percent: 100)
+#: # (        percent: 100)
 
-[//]: # (        icon: chart-line)
+#: # (        icon: chart-line)
 
-[//]: # (        icon_pack: fas)
+#: # (        icon_pack: fas)
 
-[//]: # (      - name: SQL)
+#: # (      - name: SQL)
 
-[//]: # (        description: '')
+#: # (        description: '')
 
-[//]: # (        percent: 40)
+#: # (        percent: 40)
 
-[//]: # (        icon: database)
+#: # (        icon: database)
 
-[//]: # (        icon_pack: fas)
+#: # (        icon_pack: fas)
 
-[//]: # (  - name: Hobbies)
+#: # (  - name: Hobbies)
 
-[//]: # (    color: '#eeac02')
+#: # (    color: '#eeac02')
 
-[//]: # (    color_border: '#f0bf23')
+#: # (    color_border: '#f0bf23')
 
-[//]: # (    items:)
+#: # (    items:)
 
-[//]: # (      - name: Hiking)
+#: # (      - name: Hiking)
 
-[//]: # (        description: '')
+#: # (        description: '')
 
-[//]: # (        percent: 60)
+#: # (        percent: 60)
 
-[//]: # (        icon: person-hiking)
+#: # (        icon: person-hiking)
 
-[//]: # (        icon_pack: fas)
+#: # (        icon_pack: fas)
 
-[//]: # (      - name: Cats)
+#: # (      - name: Cats)
 
-[//]: # (        description: '')
+#: # (        description: '')
 
-[//]: # (        percent: 100)
+#: # (        percent: 100)
 
-[//]: # (        icon: cat)
+#: # (        icon: cat)
 
-[//]: # (        icon_pack: fas)
+#: # (        icon_pack: fas)
 
-[//]: # (      - name: Photography)
+#: # (      - name: Photography)
 
-[//]: # (        description: '')
+#: # (        description: '')
 
-[//]: # (        percent: 80)
+#: # (        percent: 80)
 
-[//]: # (        icon: camera-retro)
+#: # (        icon: camera-retro)
 
-[//]: # (        icon_pack: fas)
+#: # (        icon_pack: fas)
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
