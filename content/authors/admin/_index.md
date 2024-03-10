@@ -38,7 +38,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Optimization
+    - course: PhD in Optimization for Machine Learning
       institution: Ecole Polytechnique
       year: 2024
     - course: Master of Science in Machine Learning and Computer Vision (MVA)
