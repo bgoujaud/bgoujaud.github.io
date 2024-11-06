@@ -16,7 +16,7 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "CDC2023"
+publication: "CDC 2023"
 publication_short: ""
 
 tags:

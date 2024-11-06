@@ -166,8 +166,9 @@ team at INRIA Saclay, working in Optimization with
 <a href="https://tommoral.github.io/about.html">Thomas Moreau</a> (INRIA)
 and <a href="https://pierreablin.com/">Pierre Ablin</a> (Apple).
 
-Previously I was PhD student in the 
-<a href="https://cmap.ip-paris.fr/">CMAP</a>
+Previously I completed a
+<a href="https://theses.hal.science/tel-04746799">PhD</a>
+in the <a href="https://cmap.ip-paris.fr/">CMAP</a>
 lab at Ecole Polytechnique under the supervision of
 <a href="http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/">Aymeric Dieuleveut</a> (Ecole Polytechnique)
 and <a href="https://adrientaylor.github.io">Adrien Taylor</a> (INRIA).

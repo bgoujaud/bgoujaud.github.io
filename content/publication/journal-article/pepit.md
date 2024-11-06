@@ -19,7 +19,7 @@ publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Mathematical Programming Computation (MPC)"
 publication_short: ""
 
 tags:

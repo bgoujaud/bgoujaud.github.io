@@ -17,7 +17,7 @@ publishDate: "2019-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "NIPS2019"
+publication: "NIPS 2019"
 publication_short: ""
 
 tags:

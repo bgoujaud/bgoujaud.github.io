@@ -16,7 +16,7 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Open Journal of Mathematical Optimization (OJMO)"
 publication_short: ""
 
 tags:

@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ISCBASC2018"
+publication: "ISCBASC 2018"
 publication_short: ""
 
 tags:

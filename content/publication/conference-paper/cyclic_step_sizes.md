@@ -18,7 +18,7 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "AISTATS2022"
+publication: "AISTATS 2022"
 publication_short: ""
 
 tags:
