@@ -18,12 +18,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Ecole Polytechnique
-    url: https://cmap.ip-paris.fr/
+  - name: INRIA
+    url: https://www.inria.fr/en/mind
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Optimization and Machine Learning.
@@ -160,8 +160,17 @@ social:
 highlight_name: true
 ---
 
-I am a final year PhD student at CMAP, Ecole Polytechnique,
-supervised by <a href="http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/">Aymeric Dieuleveut</a> and <a href="https://adrientaylor.github.io">Adrien Taylor</a>.
+I am a postdoctoral researcher in the
+<a href="https://www.inria.fr/en/mind">MIND</a>
+team at INRIA Saclay, working in Optimization with
+<a href="https://tommoral.github.io/about.html">Thomas Moreau</a> (INRIA)
+and <a href="https://pierreablin.com/">Pierre Ablin</a> (Apple).
+
+Previously I was PhD student in the 
+<a href="https://cmap.ip-paris.fr/">CMAP</a>
+lab at Ecole Polytechnique under the supervision of
+<a href="http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/">Aymeric Dieuleveut</a> (Ecole Polytechnique)
+and <a href="https://adrientaylor.github.io">Adrien Taylor</a> (INRIA).
 
 My research interests include Machine Learning, Optimization and Statistics.
 In particular, I am interested in distributed learning, generalization, privacy, robustness,
