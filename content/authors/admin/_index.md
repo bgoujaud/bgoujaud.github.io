@@ -35,6 +35,11 @@ interests:
   - Robustness
   - Diffusion models
 
+# Package to show in About widget
+Python package:
+  - [PEPit](https://pepit.readthedocs.io/en/latest/)
+  - [Practical exercises](https://github.com/PerformanceEstimation/Learning-Performance-Estimation)
+
 # Education to show in About widget
 education:
   courses:
@@ -166,7 +171,7 @@ team at INRIA Saclay, working in Optimization with
 <a href="https://tommoral.github.io/about.html">Thomas Moreau</a> (INRIA)
 and <a href="https://pierreablin.com/">Pierre Ablin</a> (Apple).
 
-Previously I completed a
+Previously, I completed a
 <a href="https://theses.hal.science/tel-04746799">PhD</a>
 in the <a href="https://cmap.ip-paris.fr/">CMAP</a>
 lab at Ecole Polytechnique under the supervision of
