@@ -37,8 +37,11 @@ interests:
 
 # Package to show in About widget
 Python package:
-  - [PEPit](https://pepit.readthedocs.io/en/latest/)
-  - [Practical exercises](https://github.com/PerformanceEstimation/Learning-Performance-Estimation)
+  - PEPit
+
+[//]: # (  - [PEPit]&#40;https://pepit.readthedocs.io/en/latest/&#41;)
+
+[//]: # (  - [Practical exercises]&#40;https://github.com/PerformanceEstimation/Learning-Performance-Estimation&#41;)
 
 # Education to show in About widget
 education:
