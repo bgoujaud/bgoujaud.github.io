@@ -39,9 +39,9 @@ interests:
 Python package:
   - PEPit
 
-[//]: # (  - [PEPit]&#40;https://pepit.readthedocs.io/en/latest/&#41;)
+  - [PEPit](https://pepit.readthedocs.io/en/latest/)
 
-[//]: # (  - [Practical exercises]&#40;https://github.com/PerformanceEstimation/Learning-Performance-Estimation&#41;)
+  - [Practical exercises](https://github.com/PerformanceEstimation/Learning-Performance-Estimation)
 
 # Education to show in About widget
 education:
@@ -168,18 +168,21 @@ social:
 highlight_name: true
 ---
 
-I am a postdoctoral researcher in the
-<a href="https://www.inria.fr/en/mind">MIND</a>
-team at INRIA Saclay, working in Optimization with
-<a href="https://tommoral.github.io/about.html">Thomas Moreau</a> (INRIA)
-and <a href="https://pierreablin.com/">Pierre Ablin</a> (Apple).
+I am assistant professor in the <a href="https://www.telecom-sudparis.eu/en/citi/department-team/">Citi</a>
+team at Telecom SudParis, supported by a
+<a href="https://hi-paris.fr/">Hi! PARIS</a> Chair.
 
 Previously, I completed a
 <a href="https://theses.hal.science/tel-04746799">PhD</a>
 in the <a href="https://cmap.ip-paris.fr/">CMAP</a>
 lab at Ecole Polytechnique under the supervision of
 <a href="http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/">Aymeric Dieuleveut</a> (Ecole Polytechnique)
-and <a href="https://adrientaylor.github.io">Adrien Taylor</a> (INRIA).
+and <a href="https://adrientaylor.github.io">Adrien Taylor</a> (INRIA),
+and was postdoctoral researcher in the
+<a href="https://www.inria.fr/en/mind">MIND</a>
+team at INRIA Saclay, working in Optimization with
+<a href="https://tommoral.github.io/about.html">Thomas Moreau</a> (INRIA)
+and <a href="https://pierreablin.com/">Pierre Ablin</a> (Apple).
 
 My research interests include Machine Learning, Optimization and Statistics.
 In particular, I am interested in distributed learning, generalization, privacy, robustness,
