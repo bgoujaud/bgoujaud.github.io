@@ -18,12 +18,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: INRIA
-    url: https://www.inria.fr/en/mind
+  - name: Telecom SudParis
+    url: https://www.telecom-sudparis.eu/en/citi/department-team/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Optimization and Machine Learning.
@@ -39,10 +39,10 @@ interests:
 Python package:
   - PEPit
 
-[//]: # (  - [PEPit]&#40;https://pepit.readthedocs.io/en/latest/&#41;)
+  - <a href="https://pepit.readthedocs.io/en/latest/">PEPit</a>
 
-[//]: # ()
-[//]: # (  - [Practical exercises]&#40;https://github.com/PerformanceEstimation/Learning-Performance-Estimation&#41;)
+  - <a href="https://github.com/PerformanceEstimation/Learning-Performance-Estimation">Practical exercises</a>
+
 
 # Education to show in About widget
 education:
